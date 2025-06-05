@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\alonk\\source\\repos\\HomeTask\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|c:\\users\\alonk\\source\\repos\\hometask\\hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|c:\\users\\alonk\\source\\repos\\hometask\\hometask\\randomuserapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\randomuserapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|c:\\users\\alonk\\source\\repos\\hometask\\hometask\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|c:\\users\\alonk\\source\\repos\\hometask\\hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|c:\\users\\alonk\\source\\repos\\hometask\\hometask\\apimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,8 +58,7 @@
               "RelativeToolTip": "HomeTask\\reqresAPI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T09:22:35.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T09:22:35.02Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "HomeTask\\dummyjsonAPI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T09:22:19.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T09:22:19.225Z"
             },
             {
               "$type": "Document",
@@ -84,12 +82,11 @@
               "RelativeToolTip": "HomeTask\\jsonplaceholderAPI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T09:22:03.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T09:22:03.762Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "randomuserAPI.cs",
               "DocumentMoniker": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\randomuserAPI.cs",
               "RelativeDocumentMoniker": "HomeTask\\randomuserAPI.cs",
@@ -102,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\User.cs",
               "RelativeDocumentMoniker": "HomeTask\\User.cs",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "HomeTask\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T08:53:30.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T08:53:30.139Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "HomeTask\\APIReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAACGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T08:53:12.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T08:53:12.825Z"
             },
             {
               "$type": "Document",
@@ -136,18 +131,17 @@
               "RelativeToolTip": "HomeTask\\APIManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T08:51:01.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T08:51:01.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\Program.cs",
               "RelativeDocumentMoniker": "HomeTask\\Program.cs",
               "ToolTip": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\Program.cs",
               "RelativeToolTip": "HomeTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAADxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T08:10:50.037Z",
               "EditorCaption": ""

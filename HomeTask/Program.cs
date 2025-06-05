@@ -4,6 +4,9 @@
     {
         static async Task Main(string[] args)
         {
+
+            //if we want to add a new api, we can save its url and name to the list below, or as said below, save it to a file and read from it, create a derived class from APIReader, and implement one method. no need to adjust anything else
+
             List<string[]> apiInfo = new List<string[]>();
             string url1 = "https://randomuser.me/api/?results=500";
             string url2 = "https://jsonplaceholder.typicode.com/users";
