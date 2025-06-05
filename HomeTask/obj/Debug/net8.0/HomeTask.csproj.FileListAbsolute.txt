@@ -1,0 +1,15 @@
+C:\Users\alonk\source\repos\HomeTask\HomeTask\bin\Debug\net8.0\HomeTask.exe
+C:\Users\alonk\source\repos\HomeTask\HomeTask\bin\Debug\net8.0\HomeTask.deps.json
+C:\Users\alonk\source\repos\HomeTask\HomeTask\bin\Debug\net8.0\HomeTask.runtimeconfig.json
+C:\Users\alonk\source\repos\HomeTask\HomeTask\bin\Debug\net8.0\HomeTask.dll
+C:\Users\alonk\source\repos\HomeTask\HomeTask\bin\Debug\net8.0\HomeTask.pdb
+C:\Users\alonk\source\repos\HomeTask\HomeTask\obj\Debug\net8.0\HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alonk\source\repos\HomeTask\HomeTask\obj\Debug\net8.0\HomeTask.AssemblyInfoInputs.cache
+C:\Users\alonk\source\repos\HomeTask\HomeTask\obj\Debug\net8.0\HomeTask.AssemblyInfo.cs
+C:\Users\alonk\source\repos\HomeTask\HomeTask\obj\Debug\net8.0\HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\alonk\source\repos\HomeTask\HomeTask\obj\Debug\net8.0\HomeTask.sourcelink.json
+C:\Users\alonk\source\repos\HomeTask\HomeTask\obj\Debug\net8.0\HomeTask.dll
+C:\Users\alonk\source\repos\HomeTask\HomeTask\obj\Debug\net8.0\refint\HomeTask.dll
+C:\Users\alonk\source\repos\HomeTask\HomeTask\obj\Debug\net8.0\HomeTask.pdb
+C:\Users\alonk\source\repos\HomeTask\HomeTask\obj\Debug\net8.0\HomeTask.genruntimeconfig.cache
+C:\Users\alonk\source\repos\HomeTask\HomeTask\obj\Debug\net8.0\ref\HomeTask.dll

@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\alonk\\source\\repos\\HomeTask\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|c:\\users\\alonk\\source\\repos\\hometask\\hometask\\randomuserapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\randomuserapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|c:\\users\\alonk\\source\\repos\\hometask\\hometask\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|c:\\users\\alonk\\source\\repos\\hometask\\hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|c:\\users\\alonk\\source\\repos\\hometask\\hometask\\apimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\apimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|c:\\users\\alonk\\source\\repos\\hometask\\hometask\\apireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\apireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|c:\\users\\alonk\\source\\repos\\hometask\\hometask\\reqresapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\reqresapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|c:\\users\\alonk\\source\\repos\\hometask\\hometask\\dummyjsonapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\dummyjsonapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|c:\\users\\alonk\\source\\repos\\hometask\\hometask\\jsonplaceholderapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D91842-C799-4E81-8C4A-E04E47AFA1EC}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\jsonplaceholderapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +50,104 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "reqresAPI.cs",
+              "DocumentMoniker": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\reqresAPI.cs",
+              "RelativeDocumentMoniker": "HomeTask\\reqresAPI.cs",
+              "ToolTip": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\reqresAPI.cs",
+              "RelativeToolTip": "HomeTask\\reqresAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:22:35.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dummyjsonAPI.cs",
+              "DocumentMoniker": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\dummyjsonAPI.cs",
+              "RelativeDocumentMoniker": "HomeTask\\dummyjsonAPI.cs",
+              "ToolTip": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\dummyjsonAPI.cs",
+              "RelativeToolTip": "HomeTask\\dummyjsonAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:22:19.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "jsonplaceholderAPI.cs",
+              "DocumentMoniker": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\jsonplaceholderAPI.cs",
+              "RelativeDocumentMoniker": "HomeTask\\jsonplaceholderAPI.cs",
+              "ToolTip": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\jsonplaceholderAPI.cs",
+              "RelativeToolTip": "HomeTask\\jsonplaceholderAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:22:03.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "randomuserAPI.cs",
+              "DocumentMoniker": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\randomuserAPI.cs",
+              "RelativeDocumentMoniker": "HomeTask\\randomuserAPI.cs",
+              "ToolTip": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\randomuserAPI.cs",
+              "RelativeToolTip": "HomeTask\\randomuserAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:21:35.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\User.cs",
+              "RelativeDocumentMoniker": "HomeTask\\User.cs",
+              "ToolTip": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\User.cs",
+              "RelativeToolTip": "HomeTask\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:53:30.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APIReader.cs",
+              "DocumentMoniker": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\APIReader.cs",
+              "RelativeDocumentMoniker": "HomeTask\\APIReader.cs",
+              "ToolTip": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\APIReader.cs",
+              "RelativeToolTip": "HomeTask\\APIReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:53:12.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIManager.cs",
+              "DocumentMoniker": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\APIManager.cs",
+              "RelativeDocumentMoniker": "HomeTask\\APIManager.cs",
+              "ToolTip": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\APIManager.cs",
+              "RelativeToolTip": "HomeTask\\APIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:51:01.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\Program.cs",
               "RelativeDocumentMoniker": "HomeTask\\Program.cs",
               "ToolTip": "C:\\Users\\alonk\\source\\repos\\HomeTask\\HomeTask\\Program.cs",
               "RelativeToolTip": "HomeTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T08:10:50.037Z",
               "EditorCaption": ""
